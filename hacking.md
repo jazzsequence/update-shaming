@@ -2,7 +2,7 @@
 
 In this file you'll find a general overview of how the plugin works.
 
-#### Goal
+## Goal
 Shaming content editors into updating page content that has not been touched in a long time, while simultaneously providing an overview of the oldest pages on a site.
 
 ## Major Design Decisions
