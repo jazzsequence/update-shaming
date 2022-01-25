@@ -1,7 +1,7 @@
 # Update Shaming
 
 Contributors: Chris Reynolds  
-Donate link: https://paypal.me/jazzs3quence
+Donate link: https://paypal.me/jazzs3quence  
 Tags: pages, content, updates, old, reaction gifs  
 Requires at least: 3.5  
 Tested up to: 5.9  
