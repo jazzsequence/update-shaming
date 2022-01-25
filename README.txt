@@ -3,8 +3,8 @@ Contributors: jazzs3quence
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AWM2TG
 Tags: pages, content, updates, old, reaction gifs
 Requires at least: 3.5
-Tested up to: 4.2.1
-Stable tag: 0.3.1
+Tested up to: 5.9
+Stable tag: 0.3.2
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -37,6 +37,9 @@ Sure. Submit a ticket [here](https://github.com/jazzsequence/Update-Shaming/issu
 None yet.
 
 == Changelog ==
+
+= 0.3.2 =
+* version bump, no major changes
 
 = 0.3.1 =
 * version bump, no major changes
