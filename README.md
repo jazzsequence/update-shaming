@@ -1,7 +1,7 @@
-#Update Shaming
+# Update Shaming
 
-Contributors: jazzs3quence  
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AWM2TG  
+Contributors: Chris Reynolds  
+Donate link: https://paypal.me/jazzsequence  
 Tags: pages, content, updates, old, reaction gifs  
 Requires at least: 3.5  
 Tested up to: 5.9  
@@ -11,19 +11,19 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 The only WordPress plugin not afraid to give you dirty looks.
 
-##Description
+## Description
 
 The purpose of this plugin is to shame content editors into updating page content that has not been touched in a long time, while simultaneously providing an overview of the oldest pages on a site. Also: gifs.
 
 The plugin adds an **Out of Date Pages** subpage under the Pages menu, which breaks all the pages on the site down by last modified date, grouped by years since it's been modified. Each page listed has a link to edit the page. All images on the Out of Date Pages subpage are sourced from [reactiongifs.com](http://reactiongifs.com).
 
-##Installation
+## Installation
 
 1. Extract the zip file and upload to the `/wp-content/plugins/` directory
 2. Activate the plugin through the Plugins menu in the WordPress dashboard.
 3. Profit!
 
-##Frequently Asked Questions
+## Frequently Asked Questions
 
 **I'm a translator. I don't understand some of these captions.**
 
@@ -34,27 +34,27 @@ I'm well aware that there are some jokes/captions that may get lost in translati
 Sure. Submit a ticket [here](https://github.com/jazzsequence/Update-Shaming/issues/new).
 
 
-##Screenshots
+## Screenshots
 
-None yet.
+See https://wordpress.org/plugins/update-shaming/
 
-##Changelog
+## Changelog
 
-###0.3.2
+### 0.3.2
 * version bump
 
-###0.3.1
+### 0.3.1
 * version bump, no major changes
 * added plugin icon
 
-###0.3
+### 0.3
 * Removed all non-reactiongif.com images and replaced with reactiongif alternatives
 * Updated readme files and [hacking.md](https://github.com/jazzsequence/Update-Shaming/blob/master/hacking.md)
 
-###0.2
+### 0.2
 * Added a view page link
 * Cleaned up some alignment issues in the tables
 
-###0.1
+### 0.1
 
 Initial release. See [hacking.md](https://github.com/jazzsequence/Update-Shaming/blob/master/hacking.md) for details about the code.
