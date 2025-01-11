@@ -14,7 +14,7 @@
  * @wordpress-plugin
  * Plugin Name: Update Shaming
  * Description: Shaming content editors into updating page content that has not been touched in a long time, while simultaneously providing an overview of the oldest pages on a site.
- * Version:     0.3.2
+ * Version:     0.3.3
  * Author:      Chris Reynolds
  * Author URI:  https://chrisreynolds.io
  * Text Domain: update-shaming

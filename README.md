@@ -5,7 +5,7 @@ Donate link: https://paypal.me/jazzsequence
 Tags: pages, content, updates, old, reaction gifs  
 Requires at least: 3.5  
 Tested up to: 5.9  
-Stable tag: 0.3.2  
+Stable tag: 0.3.3  
 License: GPL3  
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
