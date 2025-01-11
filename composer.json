@@ -1,0 +1,14 @@
+{
+    "name": "jazzsequence/update-shaming",
+    "description": "The only WordPress plugin not afraid to give you dirty looks.",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Chris Reynolds",
+            "email": "chris@jazzsequence.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
