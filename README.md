@@ -5,7 +5,7 @@ Donate link: https://paypal.me/jazzsequence
 Tags: pages, content, updates, old, reaction gifs  
 Requires at least: 3.5  
 Tested up to: 5.9  
-Stable tag: 0.3.3  
+Stable tag: 0.3.4  
 License: GPL3  
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -19,6 +19,30 @@ The plugin adds an **Out of Date Pages** subpage under the Pages menu, which bre
 
 ## Installation
 
+### Via Composer
+
+Update Shaming can be installed on Composer-based WordPress sites by using the following command:
+
+```bash
+composer require jazzsequence/update-shaming
+```
+
+### Via Git Updater
+
+Update Shaming supports [Andy Fragen's Git Updater](https://git-updater.com) method of managing plugins. 
+
+1. Download and install [Git Updater](https://git-updater.com/git-updater/) on your WordPress site.
+1. From the Git Updater admin pages, navigate to **Install Plugin** and use the following values:
+
+**Plugin URI:** `jazzsequence/update-shaming`  
+**Repository Branch:** `main`  
+**Remote Repository Host:** `GitHub`  
+**GitHub Access Token:** (optional, leave blank)
+
+### Via WordPress Plugin Repository
+The plugin can be installed via the WordPress plugin repository, however, the version in the repository may not be the most current version. Use the standard methods of searching for and installing the plugin from the Plugins page in your WordPress dashboard.
+
+### Manual
 1. Extract the zip file and upload to the `/wp-content/plugins/` directory
 2. Activate the plugin through the Plugins menu in the WordPress dashboard.
 3. Profit!

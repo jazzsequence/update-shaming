@@ -14,13 +14,15 @@
  * @wordpress-plugin
  * Plugin Name: Update Shaming
  * Description: Shaming content editors into updating page content that has not been touched in a long time, while simultaneously providing an overview of the oldest pages on a site.
- * Version:     0.3.3
+ * Version:     0.3.4
  * Author:      Chris Reynolds
  * Author URI:  https://chrisreynolds.io
  * Text Domain: update-shaming
  * License:     GPL-3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
  * Domain Path: /lang
+ * GitHub Plugin URI: jazzsequence/update-shaming
+ * Primary Branch: main
  */
 
 // If this file is called directly, abort.
