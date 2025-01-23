@@ -1,5 +1,7 @@
 # Update Shaming
 
+![Update Shaming Header](https://ps.w.org/update-shaming/assets/banner-1544x500.png)
+
 Contributors: Chris Reynolds  
 Donate link: https://paypal.me/jazzsequence  
 Tags: pages, content, updates, old, reaction gifs  
